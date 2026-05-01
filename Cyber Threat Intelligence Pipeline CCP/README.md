@@ -68,7 +68,7 @@ To run the project locally, follow the **Dependency Boot Order**:
 
 ## 📂 Documentation
 For deep technical details, implementation logic, and system configurations, please refer to:
-- 📄 **[TECHNICAL_REPORT.md](./TECHNICAL_REPORT.md)**: Full architecture blueprints, data schemas, and security measures.
+- 📄 **[SCD_CCP_Documentation.md]**: Full architecture blueprints, data schemas, and security measures.
 
 ---
 
